@@ -1,0 +1,4 @@
+name: EndlessMobs
+version: '${project.version}'
+main: com.airijko.endlessmobs.EndlessMobs
+api-version: '1.20'
